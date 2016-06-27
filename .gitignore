@@ -40,5 +40,6 @@ Thumbs.db
 # Build Data #
 # ========== #
 Build/*
+Build_64/*
 *.orig
 /Assets/Scenes/Required/Startup.unity.orig
